@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Simple File Chooser</string>
+    <string name="fileSize">File Size</string>
+    <string name="currentDir">Current Dir</string>
+
+</resources>
